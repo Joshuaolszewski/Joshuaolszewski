@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Joshuaolszewski
-- 👀 I’m interested in computer science. Specifically artificial intelligence, machine learning, data structures, and algorithms. 
-- 🌱 I’m currently learning how to analyze common sorting algorithms such as quicksort and insertion sort. Analysis includes: finding asymptotic runtime, proving runtimes, and optimizations.
+- 👀 I’m interested in computer science and software engineering. Curious about artificial intelligence, machine learning. 
 - 📫 How to reach me: www.linkedin.com/in/joshua-olszewski
 
 <!---
